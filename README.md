@@ -33,3 +33,16 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 #### Among my Personal Access Sites :
 * **Akara9Research** - Akara9Research is a Site I built as a Parnertship Project, seeking to solve the problem of Misinformed, Biased, and Unclear Content Creating confusion in the world of Blockchain and the Metaverse. **[VISIT HERE](https://www.akara9research.com/)**
 * **Portals Xperience** - Portals Xperience is a Metaverse Studio powered by Blockchain Technology, that is building Immersive Media across 3d Games and Web Interactive Films for Web Browsers and Mobile Devices to promote Simplicity, Accessibility, and Fun. [VISIT HERE](https://portalsx.vercel.app/)
+* **ChannelAI** - ChannelAI is a Website Created to Share my Beginner Experience across Learning about Machine Learning, Computer Vsision, and Virtual Reality. I started ChannelAI in 2020 to Properly digest the Concepts and Knowledge across my Learnings in Artificial Intelligence AND to translate these in a Simple manner for other Folks. [VISIT HERE](https://channelai.netlify.app/)
+
+## My Current Engagement
+
+> ### **Founder & Team Leader @ Portals Xperience Metaverse Studio**
+![PortalsX Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-d3d30h0.png)
+#### Quick Intro to PortalsX
+Portals Xperience is a Metaverse Studio powered by Blockchain Technology, that is building Immersive Media across 3d Games and Web Interactive Films for Web Browsers and Mobile Devices to promote Simplicity, Accessibility, and Fun.
+#### For More Info:
+Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/motivation-and-long-term-vision
+Social Media: https://twitter.com/Portals_X
+Discord Channel: [https://discord.com/invite/KP9htpgfSn](https://discord.com/invite/KP9htpgfSn)
+
