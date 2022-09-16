@@ -22,7 +22,7 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 |--|--|
 |Zebec's Protocol is a Payment Streaming Application built on the Solana Blockchain Introducing Real-Time Payment Stream, Withdraw Earnings at Anytime, and Zerop Conflicts Amongst Partners. I Created this Interactive Guide for Gamers and Developers(in Blockchain) to Learn about Zebec in a Simple and Fun Way.| DefiLand is a Super Cool DEFI Inspired Farming Simulation Game on the Solana Blockchain Onboarding Players to Blockchain and DEFI with Gamification Tools and Features in a Fun and Easy Way. This Getting Started Guide will teach you All you Need to know to Start Playing and Earning in the DefiLand Ecosystem Today. |
 |![Interactive Guide to Zebec's Protocol](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-wa931kf.png)| ![DBS V1 Prototype](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-1ya31aq.png) |
-| [LINK TO EXPERIENCE](https://bit.ly/origins-notebook101) | [LINK TO INTERACTIVE GUIDE](https://bit.ly/3AkagLQ)|
+| [LINK TO EXPERIENCE](https://bit.ly/3B8k9f3) | [LINK TO INTERACTIVE GUIDE](https://bit.ly/3QagROS)|
 > 
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
