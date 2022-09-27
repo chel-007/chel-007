@@ -27,6 +27,14 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
+> ### In Website Development
+#### Personal Web Development Projects:
+* **Amulet Protocol** - Amulet Protoecol is the First Insurance Cover built For Solana and Rust Based Ecosystem, Offering a Unique, Simple and Reliable Way for People in Web 3 to Protect their Assets with Protocol-Controlled-Underwriting. I created this Landing Page Demo Site after a UI/UX Review Conducted for Amulet Protocol. 
+**[VISIT HERE](https://amulet-demo.framer.website/)**
+* **Portals Xperience** - Portals Xperience is a Metaverse Studio powered by Blockchain Technology, that is building Immersive Media across 3d Games and Web Interactive Films for Web Browsers and Mobile Devices to promote Simplicity, Accessibility, and Fun. [VISIT HERE](https://portalsx.vercel.app/)
+* **Akara9Research** - Akara9Research is a Site I built as a Parnertship Project, seeking to solve the problem of Misinformed, Biased, and Unclear Content Creating confusion in the world of Blockchain and the Metaverse. **[VISIT HERE](https://www.akara9research.com/)**
+* **ChannelAI** - ChannelAI is a Website Created to Share my Beginner Experience across Learning about Machine Learning, Computer Vsision, and Virtual Reality. I started ChannelAI in 2020 to Properly digest the Concepts and Knowledge across my Learnings in Artificial Intelligence AND to translate these in a Simple manner for other Folks. [VISIT HERE](https://channelai.netlify.app/)
+
 > ### In Writing & Research
 "*I Love Writing about AI Tech, Blockchain Gaming and Web 3.0. I Write Solely from Personal Experience, so you would never find me Writing about Complex Topics. I hate Complexity*"
  #### Some of My Best Works Includes:
@@ -36,12 +44,6 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
  * **Notes on Splinterlands and Axie Infinity: From a Gamer who Plays Both** **[VISIT HERE](https://www.akara9research.com/gamer-hub/notes-on-splinterlands-and-axie-infinity-from-a-gamer-who-plays-both)** - *Published to Akara9Research*
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
-
-> ### In Website Development
-#### Among my Personal Access Sites :
-* **Akara9Research** - Akara9Research is a Site I built as a Parnertship Project, seeking to solve the problem of Misinformed, Biased, and Unclear Content Creating confusion in the world of Blockchain and the Metaverse. **[VISIT HERE](https://www.akara9research.com/)**
-* **Portals Xperience** - Portals Xperience is a Metaverse Studio powered by Blockchain Technology, that is building Immersive Media across 3d Games and Web Interactive Films for Web Browsers and Mobile Devices to promote Simplicity, Accessibility, and Fun. [VISIT HERE](https://portalsx.vercel.app/)
-* **ChannelAI** - ChannelAI is a Website Created to Share my Beginner Experience across Learning about Machine Learning, Computer Vsision, and Virtual Reality. I started ChannelAI in 2020 to Properly digest the Concepts and Knowledge across my Learnings in Artificial Intelligence AND to translate these in a Simple manner for other Folks. [VISIT HERE](https://channelai.netlify.app/)
 
 ## My Current Engagement
 
