@@ -15,9 +15,12 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 |--|
 |Amulet is an Innovative Cover Protocol Built on Solana, to Upend the Traditional DEFI Insurance Models which have Steadily lost their credibility and Sustainability in the Long-Term. By Inventing Protocol Controlled Underwriting(PCU), Amulet Protocol can ensure that the Yields and Claims of Users can be Scaled.
 This Project is Built to Redesign, and Improve the Experience and Interactions across the Amulet Website with the Main Goal of Improving User Knowledge of Amulet and Growing their Customer base.|
-|![Amulet Protocol Redesign - STAKE Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-5r931p4.png)![Amulet Protocol Redesign - COVER Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-ppa31hy.png)
+|![Amulet Protocol Redesign - STAKE Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-5r931p4.png)
 |![Amulet Protocol Redesign - Earn Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-g9c319f.png)
 | [LINK TO DESIGN DOCUMENT](https://bit.ly/3qWDn2A) |
+
+![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
+
 |Axie Infinity Notebook 101 | DodgeBall Skies Game Prototype |
 |--|--|
 |An Interactive Illustration to help Players Get Started with the Most Popular Blockchain Game called Axie Infinity: ORIGINs. Won 14th Place in an Online NFTs Contest featuring 800 Submissions from Community Members| DodgeBall Skies is a Browser Based 3d Battle Arena Multiplayer Game on the Solana Blockchain, where players battle in MazeLike Domes across various gaming modes. This is a V1 Game Prototype for DodgeBall Skies built for the recent Solana SummerCamp Hackathon. |
