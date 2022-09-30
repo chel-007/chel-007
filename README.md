@@ -42,7 +42,7 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 #### Personal Web Development Projects:
 * **Amulet Protocol** - Amulet Protoecol is the First Insurance Cover built For Solana and Rust Based Ecosystem, Offering a Unique, Simple and Reliable Way for People in Web 3 to Protect their Assets with Protocol-Controlled-Underwriting. I created this Landing Page Demo Site after a UI/UX Review Conducted for Amulet Protocol. 
 **[VISIT HERE](https://amulet-demo.framer.website/)**
-* **Portals Xperience** - Portals Xperience is a Metaverse Studio powered by Blockchain Technology, that is building Immersive Media across 3d Games and Web Interactive Films for Web Browsers and Mobile Devices to promote Simplicity, Accessibility, and Fun. [VISIT HERE](https://portalsx.vercel.app/)
+* **Portals Xperience** - Portals Xperience is an Innovative Metaverse, home to a Diverse brand of Fun Experiences from 3d Gaming and Interactive Film, to Music and Fashion NFTs. [VISIT HERE](https://portalsx.vercel.app/)
 * **Akara9Research** - Akara9Research is a Site I built as a Parnertship Project, seeking to solve the problem of Misinformed, Biased, and Unclear Content Creating confusion in the world of Blockchain and the Metaverse. **[VISIT HERE](https://www.akara9research.com/)**
 * **ChannelAI** - ChannelAI is a Website Created to Share my Beginner Experience across Learning about Machine Learning, Computer Vsision, and Virtual Reality. I started ChannelAI in 2020 to Properly digest the Concepts and Knowledge across my Learnings in Artificial Intelligence AND to translate these in a Simple manner for other Folks. [VISIT HERE](https://channelai.netlify.app/)
 
