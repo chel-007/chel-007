@@ -10,6 +10,14 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 > ### In User Interface Design
 "*I think that User Interface Design is the Easiest Tech Skill to Learn. On the Basis of it, all you need is your Creativity and Figma App*"
+
+|Amulet Protocol UI/UX Review, and Redesign|
+|--|
+|Amulet is an Innovative Cover Protocol Built on Solana, to Upend the Traditional DEFI Insurance Models which have Steadily lost their credibility and Sustainability in the Long-Term. By Inventing Protocol Controlled Underwriting(PCU), Amulet Protocol can ensure that the Yields and Claims of Users can be Scaled.
+This Project is Built to Redesign, and Improve the Experience and Interactions across the Amulet Website with the Main Goal of Improving User Knowledge of Amulet and Growing their Customer base.|
+|![Amulet Protocol Redesign - STAKE Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-5r931p4.png)![Amulet Protocol Redesign - COVER Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-ppa31hy.png)
+|![Amulet Protocol Redesign - Earn Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-g9c319f.png)
+| [LINK TO DESIGN DOCUMENT](https://bit.ly/3qWDn2A) |
 |Axie Infinity Notebook 101 | DodgeBall Skies Game Prototype |
 |--|--|
 |An Interactive Illustration to help Players Get Started with the Most Popular Blockchain Game called Axie Infinity: ORIGINs. Won 14th Place in an Online NFTs Contest featuring 800 Submissions from Community Members| DodgeBall Skies is a Browser Based 3d Battle Arena Multiplayer Game on the Solana Blockchain, where players battle in MazeLike Domes across various gaming modes. This is a V1 Game Prototype for DodgeBall Skies built for the recent Solana SummerCamp Hackathon. |
@@ -47,12 +55,16 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 ## My Current Engagement
 
-> ### **Founder & Team Leader @ Portals Xperience Metaverse Studio**
+> ### **Founder & Team Leader @ Portals Xperience Metaverse**
 ![PortalsX Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-d3d30h0.png)
 #### Quick Intro to PortalsX
-Portals Xperience is a Metaverse Studio powered by Blockchain Technology, that is building Immersive Media across 3d Games and Web Interactive Films for Web Browsers and Mobile Devices to promote Simplicity, Accessibility, and Fun.
+Portals Xperience is an Innovative Metaverse Ecosystem, home to a Diverse brand of Fun Experiences from 3d Gaming and Interactive Film, to Music and Fashion NFTs. Our Main Vision is to Create an Ecosystem Thriving with Value, where Anyone can Create, Consume and Live on their Own Terms.
 #### For More Info:
-Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/motivation-and-long-term-vision
+Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/
+<br>
+PortalsX Guild (Learn about Web3 Gaming in a Simple, Interactive Way): Coming Soon!
+<br>
 Social Media: https://twitter.com/Portals_X
+<br>
 Discord Channel: [https://discord.com/invite/KP9htpgfSn](https://discord.com/invite/KP9htpgfSn)
 
