@@ -58,11 +58,11 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 
 ## My Current Engagement
 
-> ### **Founder & Team Leader @ Portals Xperience Metaverse**
+> ## **Founder & Team Leader @ Portals Xperience Multiverse**
 ![PortalsX Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-2la319a.png)
-#### Quick Intro to PortalsX
+### Quick Intro to PortalsX
 Portals Xperience is an Innovative Metaverse Ecosystem, home to a Diverse brand of Fun Experiences from 3d Gaming and Interactive Film, to Music and Fashion NFTs. Our Main Vision is to Create an Ecosystem Thriving with Value, where Anyone can Create, Consume and Live on their Own Terms.
-#### For More Info:
+### For More Info:
 Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/
 <br>
 PortalsX Guild (Learn about Web3 Gaming in a Simple, Interactive Way): Coming Soon!
