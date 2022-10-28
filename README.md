@@ -65,9 +65,9 @@ Portals Xperience is an Innovative Metaverse Ecosystem, home to a Diverse brand 
 ### For More Info:
 Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/
 <br>
-PortalsX Guild (Learn about Web3 Gaming in a Simple, Interactive Way): Coming Soon!
+Our Website: https://portalsx.framer.website/
+<br>
+PortalsX Guild (Learn about Web3 Gaming in a Simple, Interactive Way): https://portalsx.framer.website/guidl
 <br>
 Social Media: https://twitter.com/Portals_X
-<br>
-Discord Channel: [https://discord.com/invite/KP9htpgfSn](https://discord.com/invite/KP9htpgfSn)
 
