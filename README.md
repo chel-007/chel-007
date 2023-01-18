@@ -16,6 +16,10 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 |--|--|
 |![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)| ![PortalsX Guild Banner](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|
 
+|Amulet Web3 Retreat Horz(Devcon Bogota)|Amulet Web3 Retreat Vert(Devcon Bogota)|
+|--|--|
+|![Amulet Web3 Retreat Horz](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-1je31f8.png)| ![Amulet Web3 Retreat Vert](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-hwf31mb.png)|
+
 |Amulet Protocol UI/UX Review, and Redesign|
 |--|
 |Amulet is an Innovative Cover Protocol Built on Solana, to Upend the Traditional DEFI Insurance Models which have Steadily lost their credibility and Sustainability in the Long-Term. By Inventing Protocol Controlled Underwriting(PCU), Amulet Protocol can ensure that the Yields and Claims of Users can be Scaled.
