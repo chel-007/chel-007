@@ -16,9 +16,13 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 |--|--|
 |![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)| ![PortalsX Guild Banner](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|
 
+![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
+
 |Amulet Web3 Retreat Horz(Devcon Bogota)|
 |--|
 |![Amulet Web3 Retreat Horz](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-1je31f8.png)|
+
+![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
 |Amulet Protocol UI/UX Review, and Redesign|
 |--|
@@ -27,6 +31,12 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 |![Amulet Protocol Redesign - STAKE Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-5r931p4.png)
 |![Amulet Protocol Redesign - Earn Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-g9c319f.png)
 | [LINK TO DESIGN DOCUMENT](https://bit.ly/3qWDn2A) |
+
+![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
+
+|PortalsX Social (Tokenomics)|PortalsX Social (Community Events)|
+|--|--|
+|![PortalsX Tokenomics](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-b3d31jo.png)| ![PortalsX Community Events](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-92b313e.png)|
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
