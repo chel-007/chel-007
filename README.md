@@ -11,6 +11,11 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 > ### In User Interface Design
 "*I think that User Interface Design is the Easiest Tech Skill to Learn. On the Basis of it, all you need is your Creativity and Figma App*"
 
+
+|PortalsX Brand Banner|PortalsX Guild Banner|
+|--|--|
+|![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png)| ![DBS V1 Prototype](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|
+
 |Amulet Protocol UI/UX Review, and Redesign|
 |--|
 |Amulet is an Innovative Cover Protocol Built on Solana, to Upend the Traditional DEFI Insurance Models which have Steadily lost their credibility and Sustainability in the Long-Term. By Inventing Protocol Controlled Underwriting(PCU), Amulet Protocol can ensure that the Yields and Claims of Users can be Scaled.
@@ -51,9 +56,9 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
  #### Some of My Best Works Includes:
  * **What Does it Really Take to Become a Metaverse Gamer** [**VISIT HERE**](https://hackernoon.com/what-does-it-take-to-really-become-a-metaverse-gamer) - *Published to HackerNoon Community*
  * **Your Complete Guide to Getting a Job on Blockchain** [**VISIT HERE**](https://hackernoon.com/your-complete-guide-to-getting-a-job-on-blockchain) - *Published to HackerNoon Community*
-<!--  * **Knowledge & Experience are Grossly OverEstimated - When Building for Web3** [**VISIT HERE**](https://hive.blog/hive-167922/@chel-koby/knowledge-and-experience-are-grossly-overestimated-when-building-for-web3) - *Published to Hive Microblogging Community* -->
-<!--  * **How to Pick a Chain to Launch on when Building a Blockchain Based Startup?** [**VISIT HERE**](https://hive.blog/hive-163521/@chel-koby/how-to-pick-a-chain-to-launch-on-when-building-a-blockchain-based-startup) - *Published to Hive Microblogging Community*
- * **How to Choose Between a No-Code Website Builder to Launch your Site Quickly** [**VISIT HERE**](https://hive.blog/hive-163521/@chel-koby/how-to-choose-between-a-no-code-website-builder-to-launch-your-site-quickly) - *Published to Hive Microblogging Community* -->
+* **Knowledge & Experience are Grossly OverEstimated - When Building for Web3** [**VISIT HERE**](https://hive.blog/hive-167922/@chel-koby/knowledge-and-experience-are-grossly-overestimated-when-building-for-web3) - *Published to Hive Microblogging Community*
+* **How to Pick a Chain to Launch on when Building a Blockchain Based Startup?** [**VISIT HERE**](https://hive.blog/hive-163521/@chel-koby/how-to-pick-a-chain-to-launch-on-when-building-a-blockchain-based-startup) - *Published to Hive Microblogging Community*
+ * **How to Choose Between a No-Code Website Builder to Launch your Site Quickly** [**VISIT HERE**](https://hive.blog/hive-163521/@chel-koby/how-to-choose-between-a-no-code-website-builder-to-launch-your-site-quickly) - *Published to Hive Microblogging Community*
  * **A Full Dive to Somnium Space: The Metaverse Space About to go Nova** **[VISIT HERE](https://www.akara9research.com/gamer-hub/somnium-space-a-full-dive-the-metaverse-that-is-miles-away-for-a-grand-explosion)** - *Published to Akara9Research*
  * **Notes on Splinterlands and Axie Infinity: From a Gamer who Plays Both** **[VISIT HERE](https://www.akara9research.com/gamer-hub/notes-on-splinterlands-and-axie-infinity-from-a-gamer-who-plays-both)** - *Published to Akara9Research*
 
