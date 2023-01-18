@@ -14,7 +14,7 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 |PortalsX Brand Banner|PortalsX Guild Banner|
 |--|--|
-|![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png)| ![DBS V1 Prototype](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|
+|![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)| ![PortalsX Guild Banner](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|
 
 |Amulet Protocol UI/UX Review, and Redesign|
 |--|
