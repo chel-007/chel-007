@@ -37,9 +37,28 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
+### - SOCIAL MEDIA VISUALS
+
+|Weekly Invite Contest|PortalsX Brand Features|
+|--|--|
+|![PortalsX Invite Contest](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-0yd32rs.png)| ![PortalsX Brand Features](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-93b32gw.png)|
+
+|Level up with PPPs Contest (PortalsX)|
+|--|
+|![PortalsX Level Up Contest](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-vp932ai.png)|
+
+
+|AMA 2023 Graphics|PortalsX Community Events|
+|--|--|
+|![AMA 2023 Event](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-a6s32vm.png)| ![PortalsX Community Events](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-92b313e.png)|
+
 |Amulet Web3 Retreat Horz(Devcon Bogota)|
 |--|
 |![Amulet Web3 Retreat Horz](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-1je31f8.png)|
+
+|Podcast Event Visuals|PortalsX Tokenmomics|
+|--|--|
+|![PortalsX Podcast Event](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-vnc32vl.png)| ![PortalsX Tokenomics](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-b3d31jo.png)|
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
