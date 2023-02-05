@@ -90,9 +90,9 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 |![Amulet Protocol Redesign - Earn Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-g9c319f.png)
 | [LINK TO DESIGN DOCUMENT](https://bit.ly/3qWDn2A) |
 
-|Travel Web App(BirdView)|Akara9 Research Site UI|
-|--|--|
-|![Travel WebApp Birdview](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i4t32qw.jpeg)| ![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-w5v32wi.png)|
+|Travel Web App(BirdView)|
+|--|
+|![Travel WebApp Birdview](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i4t32qw.jpeg)|
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
