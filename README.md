@@ -31,9 +31,9 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 |--|--|
 |![Hungry Axie Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-4jr32g3.png)| ![Kendra Brand Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kqq32z8.png)|
 
-"|PortalsX Brand Banner|PortalsX Guild Banner|
+<!-- |PortalsX Brand Banner|PortalsX Guild Banner|
 |--|--|
-|![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)| ![PortalsX Guild Banner](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|"
+|![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)| ![PortalsX Guild Banner](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)| -->
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
