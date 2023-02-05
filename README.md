@@ -12,9 +12,28 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 "*I think that User Interface Design is the Easiest Tech Skill to Learn. On the Basis of it, all you need is your Creativity and Figma App*"
 
 
-|PortalsX Brand Banner|PortalsX Guild Banner|
+### - LOGOS & BRAND BANNERS
+
+`
+|PortalsX Brand Logo|PortalsX Brand Banner|
 |--|--|
-|![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)| ![PortalsX Guild Banner](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|
+|![PortalsX Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-pko321i.png)| ![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)|
+
+|Keychain Brand Logo 1|Keychain Brand Logo 2|
+|--|--|
+|![Keychain Logo 1](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-1df32lc.jpeg)| ![Keychain Brand Logo 2](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-ual32w5.png)|
+
+|PortalsX Guild Logo|PortalsX Guild Banner|
+|--|--|
+|![PortalsX Guild Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-cme32jl.png)| ![PortalsX Guild Banner](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|
+
+|Hungry Axie Logo|Kendra Brand Logo|
+|--|--|
+|![Hungry Axie Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-4jr32g3.png)| ![Kendra Brand Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kqq32z8.png)|
+
+"|PortalsX Brand Banner|PortalsX Guild Banner|
+|--|--|
+|![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)| ![PortalsX Guild Banner](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-x29312a.png)|"
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
