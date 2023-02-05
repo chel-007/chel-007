@@ -14,7 +14,6 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 ### - LOGOS & BRAND BANNERS
 
-`
 |PortalsX Brand Logo|PortalsX Brand Banner|
 |--|--|
 |![PortalsX Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-pko321i.png)| ![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)|
@@ -62,21 +61,7 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
-|Amulet Protocol UI/UX Review, and Redesign|
-|--|
-|Amulet is an Innovative Cover Protocol Built on Solana, to Upend the Traditional DEFI Insurance Models which have Steadily lost their credibility and Sustainability in the Long-Term. By Inventing Protocol Controlled Underwriting(PCU), Amulet Protocol can ensure that the Yields and Claims of Users can be Scaled.
-This Project is Built to Redesign, and Improve the Experience and Interactions across the Amulet Website with the Main Goal of Improving User Knowledge of Amulet and Growing their Customer base.|
-|![Amulet Protocol Redesign - STAKE Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-5r931p4.png)
-|![Amulet Protocol Redesign - Earn Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-g9c319f.png)
-| [LINK TO DESIGN DOCUMENT](https://bit.ly/3qWDn2A) |
-
-![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
-
-|PortalsX Social (Tokenomics)|PortalsX Social (Community Events)|
-|--|--|
-|![PortalsX Tokenomics](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-b3d31jo.png)| ![PortalsX Community Events](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-92b313e.png)|
-
-![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
+### - INTERACTIVE ILLUSTRATIONS (GUIDES & PROTOTYPES)
 
 |Axie Infinity Notebook 101 | DodgeBall Skies Game Prototype |
 |--|--|
@@ -92,6 +77,22 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 |![Interactive Guide to Zebec's Protocol](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-wa931kf.png)| ![DBS V1 Prototype](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-1ya31aq.png) |
 | [LINK TO EXPERIENCE](https://bit.ly/3B8k9f3) | [LINK TO INTERACTIVE GUIDE](https://bit.ly/3QagROS)|
 > 
+
+![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
+
+### - WEBSITE UI/UX DESIGN
+
+|Amulet Protocol UI/UX Review, and Redesign|
+|--|
+|Amulet is an Innovative Cover Protocol Built on Solana, to Upend the Traditional DEFI Insurance Models which have Steadily lost their credibility and Sustainability in the Long-Term. By Inventing Protocol Controlled Underwriting(PCU), Amulet Protocol can ensure that the Yields and Claims of Users can be Scaled.
+This Project is Built to Redesign, and Improve the Experience and Interactions across the Amulet Website with the Main Goal of Improving User Knowledge of Amulet and Growing their Customer base.|
+|![Amulet Protocol Redesign - STAKE Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-5r931p4.png)
+|![Amulet Protocol Redesign - Earn Tab](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-g9c319f.png)
+| [LINK TO DESIGN DOCUMENT](https://bit.ly/3qWDn2A) |
+
+|Travel Web App(BirdView)|Akara9 Research Site UI|
+|--|--|
+|![Travel WebApp Birdview](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i4t32qw.jpeg)| ![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-w5v32wi.png)|
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
