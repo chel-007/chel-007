@@ -46,6 +46,10 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 |--|
 |![PortalsX Level Up Contest](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-vp932ai.png)|
 
+|Game7 - Community Event 1|Game 7 - Community Event 2|
+|--|--|
+|![Taking Games Multichain 1](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-md932xw.png)| ![Taking Games Multichain 2](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-mwa32pr.png)|
+
 
 |AMA 2023 Graphics|PortalsX Community Events|
 |--|--|
