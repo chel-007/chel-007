@@ -132,7 +132,7 @@ Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/
 <br>
 Our Website: https://portalsx.framer.website/
 <br>
-PortalsX Guild (Learn about Web3 Gaming in a Simple, Interactive Way): https://portalsx.framer.website/guidl
+PortalsX Guild (Learn about Web3 Gaming in a Simple, Interactive Way): https://portalsx.framer.website/guide
 <br>
-Social Media: https://twitter.com/Portals_X
+Social Media: [https://twitter.com/portals_x](https://twitter.com/portals_x)
 
