@@ -65,6 +65,14 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
+### - GAME DEV WITH PLAYCANVAS (ZERO2WEB3)
+
+|Zero 2 Web3 Desktop Web Game |
+|--|--|
+|Zero 2 Web3 is a Browser Game where players learn about web3 gaming through puzzle-like levels. These Levels includes; Web3, Blockchain, Crypto, NFTs. The Web3 Level is completed after building in a 2 weeks Hackathon hosted by [**Game 7 DAO**](https://game7.io/). **Zero2Web3 was a winning game in G7 first ever gaming Hackathon**|
+![Zero2Web3 Home](https://i.ibb.co/CQ2byGG/Loading-Screen-Zero2-Web3.png) 
+### | [ACCESS GAME HERE](https://playcanv.as/p/lAzAdCfL/)
+
 ### - INTERACTIVE ILLUSTRATIONS (GUIDES & PROTOTYPES)
 
 |Axie Infinity Notebook 101 | DodgeBall Skies Game Prototype |
@@ -123,16 +131,17 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 
 ## My Current Engagement
 
-> ## **Founder & Team Leader @ Portals Xperience Multiverse**
+> ## **Founder & Team Leader @ Portals Xperience**
 ![PortalsX Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-2la319a.png)
 ### Quick Intro to PortalsX
-Portals Xperience is an Innovative Multiverse Ecosystem, home to a Diverse brand of Fun Experiences from 3d Gaming and Interactive Film, to Music and Fashion NFTs. Our Main Vision is to Create an Ecosystem Thriving with Value, where Anyone can Create, Consume and Live on their Own Terms.
+Portals Xperience is building interactive web experiences integrated with blockchain technology. we're starting off with accelerating web3 gaming adoption through our guild, while our game experiences are in dev.
+
 ### For More Info:
-Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/
-<br>
 Our Website: https://portalsx.framer.website/
 <br>
-PortalsX Guild (Learn about Web3 Gaming in a Simple, Interactive Way): https://portalsx.framer.website/guide
+PortalsX Guild: https://portalsx.framer.website/guide
 <br>
-Social Media: [https://twitter.com/portals_x](https://twitter.com/portals_x)
+Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/
+<br>
+Social Media: [https://twitter.com/portals_x](https://twitter.com/Portals_X)
 
