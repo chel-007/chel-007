@@ -68,9 +68,10 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 ### - GAME DEV WITH PLAYCANVAS (ZERO2WEB3)
 
 |Zero 2 Web3 Desktop Web Game |
-|--|--|
+|--|
 |Zero 2 Web3 is a Browser Game where players learn about web3 gaming through puzzle-like levels. These Levels includes; Web3, Blockchain, Crypto, NFTs. The Web3 Level is completed after building in a 2 weeks Hackathon hosted by [**Game 7 DAO**](https://game7.io/). **Zero2Web3 was a winning game in G7 first ever gaming Hackathon**|
-![Zero2Web3 Home](https://i.ibb.co/CQ2byGG/Loading-Screen-Zero2-Web3.png) 
+![Zero2Web3 Home](https://i.ibb.co/CQ2byGG/Loading-Screen-Zero2-Web3.png)
+
 ### | [ACCESS GAME HERE](https://playcanv.as/p/lAzAdCfL/)
 
 ### - INTERACTIVE ILLUSTRATIONS (GUIDES & PROTOTYPES)
