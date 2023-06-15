@@ -74,7 +74,9 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 ### | [ACCESS GAME HERE](https://playcanv.as/p/lAzAdCfL/)
 
-### - INTERACTIVE ILLUSTRATIONS (GUIDES & PROTOTYPES)
+![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
+
+### - INTERACTIVE EXPERIENCES (GUIDES & PROTOTYPES)
 
 |Axie Infinity Notebook 101 | DodgeBall Skies Game Prototype |
 |--|--|
