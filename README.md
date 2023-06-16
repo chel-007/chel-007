@@ -117,7 +117,7 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 **[VISIT HERE](https://amulet-demo.framer.website/)**
 * **Portals Xperience V1** - Portals Xperience is an Innovative Metaverse, home to a Diverse brand of Fun Experiences from 3d Gaming and Interactive Film, to Music and Fashion NFTs. This is a V1 Site which had been Updated. Below for More [VISIT HERE](https://portalsx.vercel.app/)
 * **Akara9Research** - Akara9Research is a Site I built as a Parnertship Project, seeking to solve the problem of Misinformed, Biased, and Unclear Content Creating confusion in the world of Blockchain and the Metaverse. **[VISIT HERE](https://www.akara9research.com/)**
-* **ChannelAI** - ChannelAI is a Website Created to Share my Beginner Experience across Learning about Machine Learning, Computer Vsision, and Virtual Reality. I started ChannelAI in 2020 to Properly digest the Concepts and Knowledge across my Learnings in Artificial Intelligence AND to translate these in a Simple manner for other Folks. [VISIT HERE](https://channelai.netlify.app/)
+* **ChannelAI** - ChannelAI is a Website Created to Share my Beginner Experience across Learning about Machine Learning, Computer Vsision, and Virtual Reality. I started ChannelAI in 2020 to Properly digest the Concepts and Knowledge across my Learnings in Artificial Intelligence AND to translate these in a Simple manner for other Folks. [VISIT HERE](https://channelai.netlify.app/blog/)
 
 > ### In Writing & Research
 "*I Love Writing about AI Tech, Blockchain Gaming and Web 3.0. I Write Solely from Personal Experience, so you would never find me Writing about Complex Topics. I hate Complexity*"
@@ -127,8 +127,8 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 * **Knowledge & Experience are Grossly OverEstimated - When Building for Web3** [**VISIT HERE**](https://hive.blog/hive-167922/@chel-koby/knowledge-and-experience-are-grossly-overestimated-when-building-for-web3) - *Published to Hive Microblogging Community*
 * **How to Pick a Chain to Launch on when Building a Blockchain Based Startup?** [**VISIT HERE**](https://hive.blog/hive-163521/@chel-koby/how-to-pick-a-chain-to-launch-on-when-building-a-blockchain-based-startup) - *Published to Hive Microblogging Community*
  * **How to Choose Between a No-Code Website Builder to Launch your Site Quickly** [**VISIT HERE**](https://hive.blog/hive-163521/@chel-koby/how-to-choose-between-a-no-code-website-builder-to-launch-your-site-quickly) - *Published to Hive Microblogging Community*
- * **A Full Dive to Somnium Space: The Metaverse Space About to go Nova** **[VISIT HERE](https://www.akara9research.com/gamer-hub/somnium-space-a-full-dive-the-metaverse-that-is-miles-away-for-a-grand-explosion)** - *Published to Akara9Research*
- * **Notes on Splinterlands and Axie Infinity: From a Gamer who Plays Both** **[VISIT HERE](https://www.akara9research.com/gamer-hub/notes-on-splinterlands-and-axie-infinity-from-a-gamer-who-plays-both)** - *Published to Akara9Research*
+ * **A Full Dive to Somnium Space: The Metaverse Space About to go Nova** **[VISIT HERE](https://peakd.com/hive-102223/@oneup-cartel/somnium-space-a-deep-dive-or-the-metaverse-world-that-is-about-to-go-nova)** - *Published to Hive Community*
+ * **Notes on Splinterlands and Axie Infinity: From a Gamer who Plays Both** **[VISIT HERE](https://hive.blog/hive-102223/@chel-koby/notes-on-splinterlands-and-axie-infinity-from-a-gamer-who-plays-both)** - *Published to Hive Community*
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
