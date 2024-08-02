@@ -69,13 +69,13 @@ I love creative projects in **Frontend Development**, **UI/UX**, **AI**, **3d de
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
 
-### - GAME DEV WITH PLAYCANVAS (ZERO2WEB3)
+### - GAME DEV
 
 |Escape Gamble Room (WebGL game for Aptos Hack)|
 |--|
 |A turn based RPG game on Aptos Blockchain: Chance vs. Skill. Embrace randomness or use strategy to escape. Every move is a gamble.|
 |![EGR Home](images/escape-gamble-room.png)
-### | [Access Game Here]()
+### | [Access Game Here](https://egr-on-aptos.netlify.app/)
 
 |Zero 2 Web3 Desktop Web Game |
 |--|
@@ -86,7 +86,13 @@ I love creative projects in **Frontend Development**, **UI/UX**, **AI**, **3d de
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
-### - INTERACTIVE EXPERIENCES (GUIDES & PROTOTYPES)
+### - INTERACTIVE Walkthroughs
+
+|Alpacas Dash|
+|--|
+|Defiland Latest Web 3 called|
+|[Alpacas Dash](images/alpacas-dash.png)|
+|[Link to Exp]()|
 
 |Axie Infinity Notebook 101 | DodgeBall Skies Game Prototype |
 |--|--|
