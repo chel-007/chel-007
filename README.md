@@ -8,7 +8,7 @@
 
 I love creative projects in **Frontend Development**, **UI/UX**, **AI**, **3d design**, & **Web GL**
 
-### Here are my (updated) works:
+### here are my works:
 
 
 > ### Graphic / UI
@@ -91,7 +91,7 @@ I love creative projects in **Frontend Development**, **UI/UX**, **AI**, **3d de
 |Alpacas Dash|
 |--|
 |Defiland Latest Web 3 called|
-|[Alpacas Dash](images/alpacas-dash.png)|
+|![Alpacas Dash](images/alpacas-dash.png)|
 |[Link to Exp]()|
 
 |Axie Infinity Notebook 101 | DodgeBall Skies Game Prototype |
