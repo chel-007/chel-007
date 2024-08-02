@@ -8,6 +8,11 @@ I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website
 
 ### Following are some of my Works:
 
+<div style="border: 1px solid #ddd; padding: 10px; margin: 10px 0;">
+  <h3><a href="https://github.com/yourusername/project1">Project 1</a></h3>
+  <p>Description of project 1. This project involves...</p>
+</div>
+
 > ### In User Interface Design
 "*I think that User Interface Design is the Easiest Tech Skill to Learn. On the Basis of it, all you need is your Creativity and Figma App*"
 
