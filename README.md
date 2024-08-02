@@ -74,7 +74,7 @@ I love creative projects in **Frontend Development**, **UI/UX**, **AI**, **3d de
 |Escape Gamble Room (WebGL game for Aptos Hack)|
 |--|
 |A turn based RPG game on Aptos Blockchain: Chance vs. Skill. Embrace randomness or use strategy to escape. Every move is a gamble.|
-|[EGR Home](images/escape-gamble-room.png)
+|![EGR Home](images/escape-gamble-room.png)
 ### | [Access Game Here]()
 
 |Zero 2 Web3 Desktop Web Game |
