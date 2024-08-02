@@ -39,26 +39,26 @@ I love creative projects in **Frontend Development**, **UI/UX**, **AI**, **3d de
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
-### - SOCIAL MEDIA VISUALS
+### - social media visuals
 
-|Weekly Invite Contest|PortalsX Brand Features|
+|weekly contest|brand features|
 |--|--|
 |![PortalsX Invite Contest](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-0yd32rs.png)| ![PortalsX Brand Features](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-93b32gw.png)|
 
-|Level up with PPPs Contest (PortalsX)|
+|lvl up contest (portalsX)|
 |--|
 |![PortalsX Level Up Contest](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-vp932ai.png)|
 
-|Game7 - Community Event 1|Game 7 - Community Event 2|
+|Game7 - community event 1|Game 7 - 2|
 |--|--|
 |![Taking Games Multichain 1](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-md932xw.png)| ![Taking Games Multichain 2](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-mwa32pr.png)|
 
 
-|AMA 2023 Graphics|PortalsX Community Events|
+|AMA 2023 graphics|portalsX community events|
 |--|--|
 |![AMA 2023 Event](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-a6s32vm.png)| ![PortalsX Community Events](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-92b313e.png)|
 
-|Amulet Web3 Retreat Horz(Devcon Bogota)|
+|Amulet Web3 Retreat(Devcon Bogota)|
 |--|
 |![Amulet Web3 Retreat Horz](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-1je31f8.png)|
 
@@ -68,11 +68,18 @@ I love creative projects in **Frontend Development**, **UI/UX**, **AI**, **3d de
 
 ![random-divider](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-i5a30z6.png)
 
+
 ### - GAME DEV WITH PLAYCANVAS (ZERO2WEB3)
+
+|Escape Gamble Room (WebGL game for Aptos Hack)|
+|--|
+|A turn based RPG game on Aptos Blockchain: Chance vs. Skill. Embrace randomness or use strategy to escape. Every move is a gamble.|
+|[EGR Home](escape-gameble-room.png)
+### | [Access Game Here]()
 
 |Zero 2 Web3 Desktop Web Game |
 |--|
-|Zero 2 Web3 is a Browser Game where players learn about web3 gaming through puzzle-like levels. These Levels includes; Web3, Blockchain, Crypto, NFTs. The Web3 Level is completed after building in a 2 weeks Hackathon hosted by [**Game 7 DAO**](https://game7.io/). **Zero2Web3 was a winning game in G7 first ever gaming Hackathon**|
+|Zero 2 Web3 is a Browser Game where players learn about web3 gaming through puzzle-like levels. These Levels includes; Web3, Blockchain, Crypto, NFTs. The Web3 Level is completed after building in a 2 weeks Hackathon hosted by [**Game 7 DAO**](https://game7.io/). **Zero2Web3 was a winning game in Game7 first ever gaming Hackathon**|
 ![Zero2Web3 Home](https://i.ibb.co/CQ2byGG/Loading-Screen-Zero2-Web3.png)
 
 ### | [ACCESS GAME HERE](https://playcanv.as/p/lAzAdCfL/)
