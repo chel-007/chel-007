@@ -1,29 +1,25 @@
 
 
-// ## INTRO
+<!-- ## INTRO -->
 
-### hi, im chelsea koby,
+### Hi, im chelsea koby,
 
 <!-- I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website Development, WebXR Tech, User Interface Design, Research & Writing, and 3d Creation. My Work across these fields enables me to Experience and Interact with a Lot of Online Platforms and Softwares such as **Blender for 3d Modelling and Animations**, **Figma for Website UI/UX Design and Interactive Prototypes**, **Three.js & React-Three-Fiber for Building 3d Experiences on Web**, **Javascript & Engine-Specific Lang for Game Development** and Many More Interesting Platforms such as [**Netlify**](https://www.netlify.com),  [**Buildspace**](https://buildspace.so/), [**Figment**](https://learn.figment.io/), and [**Hackernoon**](https://hackernoon.com/u/chel_ash). -->
 
-i love creative projects in **frontend web development**, **graphic design**, **AI**, **3d design**, & **web GL**
+I love creative projects in **Frontend Development**, **UI/UX**, **AI**, **3d design**, & **Web GL**
 
-### Following are some of my Works:
+### Here are my (updated) works:
 
-<div style="border: 1px solid #ddd; padding: 10px; margin: 10px 0;">
-  <h3><a href="https://github.com/yourusername/project1">Project 1</a></h3>
-  <p>Description of project 1. This project involves...</p>
-</div>
 
-> ### In User Interface Design
+> ### Graphic / UI
 "*I think that User Interface Design is the Easiest Tech Skill to Learn. On the Basis of it, all you need is your Creativity and Figma App*"
 
 
-### - LOGOS & BRAND BANNERS
+<!-- ### - LOGOS & BRAND BANNERS -->
 
-|PortalsX Brand Logo|PortalsX Brand Banner|
+||portalsx banner|
 |--|--|
-|![PortalsX Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-pko321i.png)| ![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)|
+|| ![PortalsX Banner Image](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-kuc31th.png?format=200w)|
 
 |Keychain Brand Logo 1|Keychain Brand Logo 2|
 |--|--|
