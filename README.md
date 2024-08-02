@@ -1,10 +1,12 @@
 
 
-## INTRO
+// ## INTRO
 
-### Hi there, Chelsea Koby Here,
+### hi, im chelsea koby,
 
-I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website Development, WebXR Tech, User Interface Design, Research & Writing, and 3d Creation. My Work across these fields enables me to Experience and Interact with a Lot of Online Platforms and Softwares such as **Blender for 3d Modelling and Animations**, **Figma for Website UI/UX Design and Interactive Prototypes**, **Three.js & React-Three-Fiber for Building 3d Experiences on Web**, **Javascript & Engine-Specific Lang for Game Development** and Many More Interesting Platforms such as [**Netlify**](https://www.netlify.com),  [**Buildspace**](https://buildspace.so/), [**Figment**](https://learn.figment.io/), and [**Hackernoon**](https://hackernoon.com/u/chel_ash).
+<!-- I'm a Developer and Designer working with Blockchain Technologies, NFTs, Website Development, WebXR Tech, User Interface Design, Research & Writing, and 3d Creation. My Work across these fields enables me to Experience and Interact with a Lot of Online Platforms and Softwares such as **Blender for 3d Modelling and Animations**, **Figma for Website UI/UX Design and Interactive Prototypes**, **Three.js & React-Three-Fiber for Building 3d Experiences on Web**, **Javascript & Engine-Specific Lang for Game Development** and Many More Interesting Platforms such as [**Netlify**](https://www.netlify.com),  [**Buildspace**](https://buildspace.so/), [**Figment**](https://learn.figment.io/), and [**Hackernoon**](https://hackernoon.com/u/chel_ash). -->
+
+i love creative projects in **frontend web development**, **graphic design**, **AI**, **3d design**, & **web GL**
 
 ### Following are some of my Works:
 
