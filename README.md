@@ -158,9 +158,9 @@ Portals Xperience is building interactive web experiences integrated with blockc
 ### For More Info:
 Our Website: https://portalsx.framer.website/
 <br>
-PortalsX Guild: https://portalsx.framer.website/guide
+#PortalsX Guild: https://portalsx.framer.website/guide
 <br>
-Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/
+#Our Whitepaper: https://portalsxperience.gitbook.io/portals-x/
 <br>
-Social Media: [https://twitter.com/portals_x](https://twitter.com/Portals_X)
+#Social Media: [https://twitter.com/portals_x](https://twitter.com/Portals_X)
 
