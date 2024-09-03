@@ -153,10 +153,10 @@ This Project is Built to Redesign, and Improve the Experience and Interactions a
 > ## **Founder & Team Leader @ Portals Xperience**
 ![PortalsX Logo](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-2la319a.png)
 ### Quick Intro to PortalsX
-Portals Xperience is building interactive web experiences integrated with blockchain technology. we're starting off with accelerating web3 gaming adoption through our guild, while our game experiences are in dev.
+portals x is building interactive virtual experiences that integrates blockchain technology. we believe that the merging of blockchain and vr experience will bring financial freedom to many.
 
 ### For More Info:
-Our Website: https://portalsx.framer.website/
+our Website: https://portalsx.framer.website/
 <br>
 <!--PortalsX Guild: https://portalsx.framer.website/guide
 <br>
